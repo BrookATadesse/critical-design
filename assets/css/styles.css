@@ -20,3 +20,14 @@ body {
 	background-image: url(../img/clock.png);
 	cursor: crosshair;
 }
+
+h1 {
+	color: black;
+	font-size: 48px;
+	text-align: center;
+}
+
+.text{
+	width: 50%;
+	margin: 96px auto;
+}
